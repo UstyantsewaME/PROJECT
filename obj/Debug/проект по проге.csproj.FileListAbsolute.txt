@@ -1,0 +1,26 @@
+G:\Новая папка\проект по проге\bin\Debug\проект по проге.exe.config
+G:\Новая папка\проект по проге\bin\Debug\проект по проге.exe
+G:\Новая папка\проект по проге\bin\Debug\проект по проге.pdb
+G:\Новая папка\проект по проге\obj\Debug\проект_по_проге.Form1.resources
+G:\Новая папка\проект по проге\obj\Debug\проект_по_проге.Properties.Resources.resources
+G:\Новая папка\проект по проге\obj\Debug\проект по проге.csproj.GenerateResource.cache
+G:\Новая папка\проект по проге\obj\Debug\проект по проге.csproj.CoreCompileInputs.cache
+G:\Новая папка\проект по проге\obj\Debug\проект по проге.exe
+G:\Новая папка\проект по проге\obj\Debug\проект по проге.pdb
+F:\Новая папка\проект по проге\bin\Debug\проект по проге.exe.config
+F:\Новая папка\проект по проге\bin\Debug\проект по проге.exe
+F:\Новая папка\проект по проге\bin\Debug\проект по проге.pdb
+F:\Новая папка\проект по проге\obj\Debug\проект_по_проге.Form1.resources
+F:\Новая папка\проект по проге\obj\Debug\проект_по_проге.Properties.Resources.resources
+F:\Новая папка\проект по проге\obj\Debug\проект по проге.csproj.GenerateResource.cache
+F:\Новая папка\проект по проге\obj\Debug\проект по проге.csproj.CoreCompileInputs.cache
+F:\Новая папка\проект по проге\obj\Debug\проект по проге.exe
+F:\Новая папка\проект по проге\obj\Debug\проект по проге.pdb
+G:\Новая папка\проект по проге\obj\Debug\проект_по_проге.Form2.resources
+F:\Новая папка\проект по проге\obj\Debug\проект по проге.csproj.AssemblyReference.cache
+F:\Новая папка\проект по проге\obj\Debug\проект_по_проге.Form2.resources
+G:\Новая папка\проект по проге\obj\Debug\проект по проге.csprojAssemblyReference.cache
+G:\Новая папка\проект по проге\obj\Debug\проект_по_проге.Form3.resources
+G:\Новая папка\проект по проге\obj\Debug\проект_по_проге.Form4.resources
+F:\Новая папка\проект по проге\obj\Debug\проект_по_проге.Form3.resources
+F:\Новая папка\проект по проге\obj\Debug\проект_по_проге.Form4.resources
